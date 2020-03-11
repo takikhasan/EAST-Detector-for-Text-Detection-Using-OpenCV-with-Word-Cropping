@@ -1,4 +1,4 @@
-# EAST-Detector-for-text-detection-using-OpenCV-with-word-cropping
+# EAST-Detector-for-Text-Detection-Using-OpenCV-with-Word-Cropping
 <h3>How to run:</h3>
 <ol>
   <li>Clone the repo on your computer</li>
