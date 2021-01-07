@@ -1,7 +1,6 @@
 import os
 import librosa
 import numpy as np
-import librosa.display
 import soundfile as sf
 
 # Assuming there is a folder in current directory named "static" that contains the .wav files
